@@ -24,3 +24,5 @@ function strCount(obj){
   }
   return count;
 }
+
+// or
